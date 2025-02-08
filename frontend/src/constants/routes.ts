@@ -1,5 +1,5 @@
 export const ROUTES = {
-  INITIAL: '/',
+  INITIAL: '/initial',
   LAYOUT: {
     AI: '/ai-tagging',
     HOME: '/home',
